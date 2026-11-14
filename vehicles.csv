@@ -1,0 +1,60 @@
+name,category,brand,price_pkr,fuel_type,seats,top_speed_kmh,source,date
+Kids BMX 20 inch,Cycle,Generic,15000,Pedal,1,20,Approximate market estimate,2026-11
+Phoenix Roadster 24 inch,Cycle,Phoenix,19000,Pedal,1,25,Approximate market estimate,2026-11
+Humber Classic Roadster 28 inch,Cycle,Humber,24000,Pedal,1,25,Approximate market estimate,2026-11
+Sohrab Mountain Bike 26 inch,Cycle,Sohrab,32000,Pedal,1,30,Approximate market estimate,2026-11
+Morgan Mountain Bike 27.5 inch,Cycle,Morgan,38000,Pedal,1,30,Approximate market estimate,2026-11
+Folding Cycle 20 inch,Cycle,Generic,45000,Pedal,1,25,Approximate market estimate,2026-11
+Giant ATX Mountain Bike,Cycle,Giant,95000,Pedal,1,35,Approximate market estimate,2026-11
+Imported Road Racing Bike,Cycle,Generic,180000,Pedal,1,45,Approximate market estimate,2026-11
+Electric Cycle (pedal assist),Electric Bike,Generic,75000,Electric,1,25,Approximate market estimate,2026-11
+Electric Scooter 350W,Electric Bike,Generic,85000,Electric,1,25,Approximate market estimate,2026-11
+Jolta Electric Bike,Electric Bike,Jolta,135000,Electric,2,60,Approximate market estimate,2026-11
+Electric Bike 1000W,Electric Bike,Generic,145000,Electric,2,60,Approximate market estimate,2026-11
+Yadea C1S Electric Scooter,Electric Bike,Yadea,190000,Electric,2,55,Approximate market estimate,2026-11
+Road Prince RP70,Petrol Bike,Road Prince,115000,Petrol,2,70,Approximate market estimate,2026-11
+United US-70,Petrol Bike,United,120000,Petrol,2,70,Approximate market estimate,2026-11
+Honda CD 70,Petrol Bike,Honda,168000,Petrol,2,80,Approximate market estimate,2026-11
+Honda Pridor 100,Petrol Bike,Honda,215000,Petrol,2,85,Approximate market estimate,2026-11
+Honda CG 125,Petrol Bike,Honda,335000,Petrol,2,100,Approximate market estimate,2026-11
+Yamaha YBR 125,Petrol Bike,Yamaha,455000,Petrol,2,105,Approximate market estimate,2026-11
+Suzuki GS 150,Petrol Bike,Suzuki,520000,Petrol,2,110,Approximate market estimate,2026-11
+Honda CB 150F,Petrol Bike,Honda,530000,Petrol,2,115,Approximate market estimate,2026-11
+Suzuki GR 150,Petrol Bike,Suzuki,590000,Petrol,2,115,Approximate market estimate,2026-11
+Heavy Bike 400cc (imported),Heavy Bike,Imported,3500000,Petrol,2,180,Approximate market estimate,2026-11
+Heavy Bike 1000cc (imported),Heavy Bike,Imported,9000000,Petrol,2,250,Approximate market estimate,2026-11
+Qingqi Loader Rickshaw,Rickshaw,Qingqi,425000,Petrol,2,50,Approximate market estimate,2026-11
+Electric Loader Rickshaw,Rickshaw,Generic,650000,Electric,3,40,Approximate market estimate,2026-11
+Auto Rickshaw (CNG),Rickshaw,Generic,700000,Petrol,3,60,Approximate market estimate,2026-11
+Suzuki Bolan,Van,Suzuki,2600000,Petrol,4,110,Approximate market estimate,2026-11
+Toyota Hiace,Van,Toyota,11500000,Diesel,12,150,Approximate market estimate,2026-11
+Suzuki Alto VXR,Car,Suzuki,3000000,Petrol,4,140,Approximate market estimate,2026-11
+Suzuki Wagon R VXL,Car,Suzuki,3500000,Petrol,4,150,Approximate market estimate,2026-11
+Suzuki Cultus VXL,Car,Suzuki,4300000,Petrol,4,160,Approximate market estimate,2026-11
+Toyota Yaris 1.3 GLI,Car,Toyota,5500000,Petrol,5,170,Approximate market estimate,2026-11
+Honda City 1.2L,Car,Honda,5900000,Petrol,5,175,Approximate market estimate,2026-11
+Toyota Prius Hybrid (imported),Car,Toyota,6500000,Hybrid,5,180,Approximate market estimate,2026-11
+Toyota Corolla Altis 1.6,Car,Toyota,7500000,Petrol,5,180,Approximate market estimate,2026-11
+MG ZS EV,Car,MG,8900000,Electric,5,175,Approximate market estimate,2026-11
+Honda Civic Turbo,Car,Honda,9200000,Petrol,5,200,Approximate market estimate,2026-11
+Kia Sportage Alpha,Car,Kia,9500000,Petrol,5,190,Approximate market estimate,2026-11
+Hyundai Tucson,Car,Hyundai,10500000,Petrol,5,190,Approximate market estimate,2026-11
+BYD Atto 3,Car,BYD,10500000,Electric,5,160,Approximate market estimate,2026-11
+Toyota Fortuner,Car,Toyota,18000000,Diesel,7,185,Approximate market estimate,2026-11
+Mercedes-Benz S-Class (imported),Car,Mercedes-Benz,80000000,Petrol,5,250,Approximate market estimate,2026-11
+Toyota Land Cruiser (imported),Car,Toyota,90000000,Diesel,7,200,Approximate market estimate,2026-11
+Rolls-Royce Cullinan (imported),Car,Rolls-Royce,700000000,Petrol,5,250,Approximate market estimate,2026-11
+Truck 10-wheeler (Hino class),Bus/Truck,Hino,15000000,Diesel,2,90,Approximate market estimate,2026-11
+Passenger Bus (Hino class),Bus/Truck,Hino,18000000,Diesel,30,100,Approximate market estimate,2026-11
+Millat 385 Tractor,Tractor,Millat,2300000,Diesel,1,30,Approximate market estimate,2026-11
+Motor Boat (small),Boat,Generic,2000000,Petrol,6,50,Approximate market estimate,2026-11
+Jet Ski (Yamaha class),Boat,Yamaha,4500000,Petrol,2,100,Approximate market estimate,2026-11
+Luxury Yacht (small),Boat,Generic,280000000,Diesel,10,45,Approximate market estimate,2026-11
+Robinson R22 Helicopter,Helicopter,Robinson,85000000,Aviation,2,190,Approximate market estimate,2026-11
+Robinson R44 Helicopter,Helicopter,Robinson,150000000,Aviation,4,200,Approximate market estimate,2026-11
+Bell 407 Helicopter,Helicopter,Bell,900000000,Aviation,7,260,Approximate market estimate,2026-11
+Airbus H125 Helicopter,Helicopter,Airbus,950000000,Aviation,6,280,Approximate market estimate,2026-11
+Airbus H145 Helicopter,Helicopter,Airbus,2800000000,Aviation,10,260,Approximate market estimate,2026-11
+Cessna 172 Skyhawk,Aircraft,Cessna,125000000,Aviation,4,230,Approximate market estimate,2026-11
+Cessna Citation M2 Light Jet,Jet,Cessna,1400000000,Aviation,6,740,Approximate market estimate,2026-11
+Gulfstream G650 Private Jet,Jet,Gulfstream,19000000000,Aviation,18,950,Approximate market estimate,2026-11
